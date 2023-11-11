@@ -1,4 +1,4 @@
-# May be the best solution until now for users who meet scrolling bug on Ubuntu when using Chrome core apps like vscode, Electron, Chrome, Edge:
+# May be the best solution until now for users who meet scrolling bug on Ubuntu when using apps like vscode, Electron, Chrome, Edge which power by Chromium Rendering Engine:
 This bug is exists for about 2 years.
 This bug is described in several open issues:
 - Editor: scroll jumps randomly (related to Chrome, Electron, xinput) #28795 https://github.com/Microsoft/vscode/issues/28795
